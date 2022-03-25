@@ -1,0 +1,11 @@
+1) Create fortunes table:
+*** if you're using Windows, replace \ with ^ character (Shift + 6) ***
+
+aws dynamodb create-table --table-name fortunes --attribute-definitions \
+AttributeName=fort_id,AttributeType=N --key-schema \
+AttributeName=fort_id,KeyType=HASH \
+--provisioned-throughput ReadCapacityUnits=5,WriteCapacityUnits=5
+
+3) Populate fortunes Table:
+
+aws dynamodb batch-write-item --request-items file://items.json
