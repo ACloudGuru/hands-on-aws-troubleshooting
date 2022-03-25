@@ -1,0 +1,132 @@
+{
+    "fortunes": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "1"},
+       				"fortune": {"S": "Step out of your comfort zone to find inspiration"}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "2"},
+       				"fortune": {"S": "Don't be afraid to make a mistake on your path to greatness"}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "3"},
+       				"fortune": {"S": "Be kind to all things and the universe will reward you"}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "4"},
+       				"fortune": {"S": "There are plenty of fish in the sea"}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "5"},
+       				"fortune": {"S": "A foolish man listens to his heart. A wise man listens to cookies."}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "6"},
+       				"fortune": {"S": "No snowflake feels responsible in an avalanche"}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "7"},
+       				"fortune": {"S": "I cannot help you, I am just a cookie, sorry"}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "8"},
+       				"fortune": {"S": "Do not worry about money. The best things in life are free."}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "9"},
+       				"fortune": {"S": "People learn little from success, but much from failure."}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "10"},
+       				"fortune": {"S": "The early bird catches the worm but the second mouse gets the cheese"}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "11"},
+       				"fortune": {"S": "Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold."}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "12"},
+       				"fortune": {"S": "It's OK to have all your eggs in one basket as long as you control what happens to that basket."}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "13"},
+       				"fortune": {"S": "If something is important enough you should try, even if the probable outcome is failure."}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "14"},
+       				"fortune": {"S": "Pursue what you are passionate about because that will make you happier than pretty much anything else."}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "15"},
+       				"fortune": {"S": "Man who catch fly with chopstick accomplish anything."}    				
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "fort_id": {"N": "16"},
+       				"fortune": {"S": "You will find a lot of success with a positive mind"} 
+                }
+            }
+        }
+    ]
+}
