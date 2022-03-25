@@ -7,7 +7,7 @@
             "Action": [
                 "dynamodb:GetItem"
             ],
-            "Resource": "arn:aws:dynamodb:eu-west-2:757250003982:table/fortunes"
+            "Resource": "arn:aws:dynamodb:us-east-1:12345678912:table/fortunes"
         }
     ]
 }
