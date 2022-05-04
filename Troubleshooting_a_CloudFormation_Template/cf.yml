@@ -6,8 +6,6 @@ Mappings:
       CIDR: 10.1.0.0/16
     Public1:
       CIDR: 10.1.0.0/24
-    Private1:
-      CIDR: 10.1.1.0/24
 Resources:
   VPC1:
     Type: 'AWS::EC2::VPC'
