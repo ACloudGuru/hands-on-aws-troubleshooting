@@ -6,6 +6,6 @@ AttributeName=fort_id,AttributeType=N --key-schema \
 AttributeName=fort_id,KeyType=HASH \
 --provisioned-throughput ReadCapacityUnits=5,WriteCapacityUnits=5
 
-3) Populate fortunes Table:
+2) Populate fortunes Table:
 
 aws dynamodb batch-write-item --request-items file://items.json
